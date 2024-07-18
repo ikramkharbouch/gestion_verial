@@ -1,12 +1,12 @@
 # Gestion Verial Software
 
-##Available Scripts
+## Available Scripts
 First In the project directory, you run:
 
-##npm install
+## npm install
 This install ElectronJS and ReactJS Then cd into new directory api
 
-##cd api
+## cd api
 Now Install The API dependencies.
 
 ## npm install
